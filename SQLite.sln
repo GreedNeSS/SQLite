@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryExecution", "QueryExec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataReaderFromSQLite", "DataReaderFromSQLite\DataReaderFromSQLite.csproj", "{C230C8D4-733D-4B3A-89EC-94CCBE22FF5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingScalarValues", "GettingScalarValues\GettingScalarValues.csproj", "{8BD0B369-7CF6-4EB1-A625-B9DC4F01DA1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C230C8D4-733D-4B3A-89EC-94CCBE22FF5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C230C8D4-733D-4B3A-89EC-94CCBE22FF5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C230C8D4-733D-4B3A-89EC-94CCBE22FF5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BD0B369-7CF6-4EB1-A625-B9DC4F01DA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD0B369-7CF6-4EB1-A625-B9DC4F01DA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD0B369-7CF6-4EB1-A625-B9DC4F01DA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD0B369-7CF6-4EB1-A625-B9DC4F01DA1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
